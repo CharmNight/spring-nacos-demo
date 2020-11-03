@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: nacos-service-1
+
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: 127.0.0.1:10040
+        enabled: false
+      discovery:
+        server-addr: 127.0.0.1:10040
+        enabled: true
+        service: ${spring.application.name}
+
