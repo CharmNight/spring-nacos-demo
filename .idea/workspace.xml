@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="117a42b4-b435-4da8-a4e3-23a588e9e0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fm-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fm-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/nacos-service-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fm-service/fm-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/src/main/java/com/night/NacosService1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/fm-service/src/main/java/com/night/FmApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/src/main/java/com/night/controller/ConfigController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nacos-service-1/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fm-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/night/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/night/UserApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="117a42b4-b435-4da8-a4e3-23a588e9e0d4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/nacos-service-1/target/" />
@@ -105,8 +88,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="302">
+                <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -211,132 +194,6 @@
             </path>
             <path>
               <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="fm-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="night" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_nacos" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -352,7 +209,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604657744081" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604661840382" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -418,34 +275,33 @@
       <option name="presentableId" value="Default" />
       <updated>1604306244622</updated>
       <workItem from="1604306248643" duration="12834000" />
-      <workItem from="1604644053411" duration="10169000" />
+      <workItem from="1604644053411" duration="11750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23003000" />
+    <option name="totallyTimeSpent" value="24584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1455" y="-202" width="1848" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.2812846" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.2812846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50158226" side_tool="true" visible="true" weight="0.2812846" />
+      <window_info id="Favorites" order="6" sideWeight="0.50158226" side_tool="true" weight="0.2812846" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -809,8 +665,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="302">
+            <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

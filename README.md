@@ -11,6 +11,7 @@ nacos + openfeign 服务调用
 
 ## 项目使用
 1. 在本地下载一个 nacos 启动 （端口默认 8848）
+下载地址`https://github.com/alibaba/nacos/releases`
 2. 本地将 user 和 fm 服务启动
 3. 登录 http://127.0.0.1:8848/nacos/
  
