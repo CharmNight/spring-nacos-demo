@@ -6,7 +6,7 @@ nacos 配置中心
 
 nacos 注册中心
 
-nacos + openfegin 服务调用
+nacos + openfeign 服务调用
 
 
 ## 项目使用
