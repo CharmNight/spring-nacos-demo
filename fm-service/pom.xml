@@ -7,22 +7,16 @@
         <groupId>com.night</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>user-service</artifactId>
+
+    <artifactId>fm-service</artifactId>
 
     <dependencies>
-
-        <dependency>
-            <groupId>com.night</groupId>
-            <artifactId>fm-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
-
     </dependencies>
+
 </project>
